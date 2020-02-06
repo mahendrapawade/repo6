@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 2EAB-A371
+
+ Directory of C:\Users\Administrator\Desktop\GitSampleProject
+
+06-Feb-20  08:59 PM    <DIR>          .
+06-Feb-20  08:59 PM    <DIR>          ..
+06-Feb-20  06:20 PM                22 index.html
+06-Feb-20  05:56 PM                 8 text1.txt
+06-Feb-20  08:59 PM                 0 text2.txt
+               3 File(s)             30 bytes
+               2 Dir(s)  39,484,940,288 bytes free
